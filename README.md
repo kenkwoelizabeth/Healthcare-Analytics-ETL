@@ -5,10 +5,13 @@
 [![Databricks](https://img.shields.io/badge/Databricks-Powered-red)](https://databricks.com/)
 [![PySpark](https://img.shields.io/badge/PySpark-3.5-orange)](https://spark.apache.org/)
 [![Delta Lake](https://img.shields.io/badge/Delta%20Lake-ACID-blue)](https://delta.io/)
+<<<<<<< Updated upstream
 <img width="1380" height="368" alt="Jobs and Pipeline" src="https://github.com/user-attachments/assets/2b98ba3a-d354-48d6-9eab-6a88caf46556" />
 <img width="1389" height="569" alt="dASH1" src="https://github.com/user-attachments/assets/79a52ae0-cc80-4769-8c89-d0830c40e93c" />
 <img width="1439" height="719" alt="Dash2" src="https://github.com/user-attachments/assets/2dcb0aec-a836-452f-af33-f0f9dafe3576" />
 
+=======
+>>>>>>> Stashed changes
 
 ---
 
